@@ -1,0 +1,8 @@
+{
+  "name": "jquery-appear",
+  "description": "jquery-appear",
+  "author": "Yi-Cyuan",
+  "dependencies": {
+    "jquery": "^1.12.0",
+  }
+}
